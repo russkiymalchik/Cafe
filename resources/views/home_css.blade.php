@@ -10,7 +10,7 @@
 <script src="http://demo.itsolutionstuff.com/plugin/jquery.js"></script>
     <link rel="stylesheet" href="http://demo.itsolutionstuff.com/plugin/bootstrap-3.min.css">
 
-    <title>Klassy Cafe - Restaurant HTML Template</title>
+    <title>CUP</title>
 <!--
     
 TemplateMo 558 Klassy Cafe

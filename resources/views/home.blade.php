@@ -35,7 +35,7 @@
 
 
                         <a href="{{url('/')}}" class="logo">
-                            <img src="assets/images/klassy-logo.png" align="klassy cafe html template">
+                            <img src="assets/images/cup-logo.png" align="klassy cafe html template">
 
 
                             <a class="menu-trigger">
@@ -163,7 +163,7 @@
                 <div class="col-lg-4">
                     <div class="left-content">
                         <div class="inner-content">
-                            <h4>KlassyCafe</h4>
+                            <h4>CUP</h4>
                             <h6>THE BEST EXPERIENCE</h6>
                             <div class="main-white-button scroll-to-section">
                                 <a href="#reservation">Make A Reservation</a>
@@ -213,7 +213,7 @@
                             <h6>About Us</h6>
                             <h2>We Leave A Delicious Memory For You</h2>
                         </div>
-                        <p>Klassy Cafe is one of the best <a href="https://templatemo.com/tag/restaurant" target="_blank" rel="sponsored">restaurant HTML templates</a> with Bootstrap v4.5.2 CSS framework. You can download and feel free to use this website template layout for your restaurant business. You are allowed to use this template for commercial purposes. <br><br>You are NOT allowed to redistribute the template ZIP file on any template donwnload website. Please contact us for more information.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi congue, enim et consequat iaculis, magna lorem blandit mi, a porta ligula velit eu nisl. Nullam vulputate erat ipsum, sed blandit nisl scelerisque a. Vestibulum consequat placerat dignissim. Ut et purus non lectus dignissim malesuada. Curabitur sodales ligula nec leo hendrerit eleifend. Aenean vehicula orci sit amet eleifend accumsan. Sed lobortis magna vel sapien sodales, vitae semper nunc scelerisque. Aliquam in ligula massa. Nulla diam orci, lacinia porttitor pharetra id, pretium in nunc. Etiam sed finibus odio, viverra porttitor diam. Phasellus ac tortor quis justo imperdiet sodales non eu magna. Etiam ut porttitor justo, viverra tincidunt sem.</p>
                         <div class="row">
                             <div class="col-4">
                                 <img src="assets/images/about-thumb-01.jpg" alt="">
@@ -259,7 +259,7 @@
             <div class="row">
                 <div class="col-lg-4 offset-lg-4 text-center">
                     <div class="section-heading">
-                        <h6>Klassy Week</h6>
+                        <h6>CUP</h6>
                         <h2>This Week’s Special Meal Offers</h2>
                     </div>
                 </div>
@@ -526,23 +526,12 @@
                 <div class="col-lg-4 col-xs-12">
                     <div class="right-text-content">
                             <ul class="social-icons">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                             </ul>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="logo">
-                        <a href="index.html"><img src="assets/images/white-logo.png" alt=""></a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-xs-12">
-                    <div class="left-text-content">
-                        <p>© Copyright Klassy Cafe Co.
-                        
-                        <br>Design: TemplateMo</p>
+                        <a href="index.html"><img src="assets/images/cup-white-logo.png" alt=""></a>
                     </div>
                 </div>
             </div>
